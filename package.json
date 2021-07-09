@@ -1,0 +1,9 @@
+{
+  "name": "@areojs/constants",
+  "version": "0.0.1",
+  "description": "",
+  "main": "constants.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
